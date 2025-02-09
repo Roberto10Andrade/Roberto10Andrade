@@ -1,57 +1,44 @@
-# Olá, eu sou Roberto Andrade! 👋
+<div align="center">
+  <h1>👋 Olá! Eu sou Roberto Andrade</h1>
+  <p>Desenvolvedor Web em formação | Engenharia da Computação</p>
+</div>
 
-## 👨‍💻 Sobre mim
-Estudante de Engenharia da Computação na UFC-Sobral e do curso Técnico em Informática para Internet no IFCE-Tianguá.
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Roberto10Andrade&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto10Andrade&layout=compact&theme=dracula"/>
+</div>
 
 ## 🎓 Formação
-- **Graduação:** Engenharia da Computação - UFC Sobral
-- **Curso Técnico:** Informática para Internet - IFCE Tianguá
+- 📚 Graduando em **Engenharia da Computação** - UFC Sobral
+- 💻 Técnico em **Informática para Internet** - IFCE Tianguá
 
-## 🚀 Principais Projetos
+## 💻 Principais Tecnologias
+<div align="center">
+  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  
+</div>
 
-### [ShopList](https://github.com/Roberto10Andrade/vue-firebase-first-project-master)
-Lista de compras desenvolvida com Vue.js e Firebase
-- Autenticação de usuários
-- CRUD completo
-- Relatórios e estatísticas
-- Exportação de dados
+## 🚀 Projetos em Destaque
 
-### [SecureSignature](https://github.com/Roberto10Andrade/SecureSignature)
-Aplicação web de assinatura digital
-- Node.js
-- Criptografia RSA
-- Segurança de documentos
+<div align="center">
+  
+  [![ShopList](https://github-readme-stats.vercel.app/api/pin/?username=Roberto10Andrade&repo=vue-firebase-first-project-master&theme=dracula)](https://github.com/Roberto10Andrade/vue-firebase-first-project-master)
+  [![Quiz-Rapido](https://github-readme-stats.vercel.app/api/pin/?username=Roberto10Andrade&repo=Quiz-Rapido&theme=dracula)](https://github.com/Roberto10Andrade/Quiz-Rapido)
+  
+</div>
 
-### [Quiz-Rapido](https://github.com/Roberto10Andrade/Quiz-Rapido)
-Aplicativo de questionário interativo
-- HTML, CSS e JavaScript
-- Interface intuitiva
-- Sistema de pontuação
+## 📫 Contatos
 
-### [Estudoteca](https://github.com/Roberto10Andrade/Estudoteca)
-Plataforma educacional
-- JavaScript
-- Desenvolvimento Web II
-- Gestão de conteúdo
-
-## 🛠️ Tecnologias & Ferramentas
-- **Frontend:** HTML, CSS, JavaScript, Vue.js
-- **Backend:** Node.js, Firebase
-- **Banco de Dados:** Firestore, MySQL
-- **Ferramentas:** Git, VS Code
-- **Outros:** REST APIs, Autenticação, UX/UI
-
-## 📫 Contato
-- GitHub: [@Roberto10Andrade](https://github.com/Roberto10Andrade)
-- Instituições:
-  - UFC Sobral
-  - IFCE Campus Tianguá
-
-## 📊 Estatísticas GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Roberto10Andrade&show_icons=true&theme=dark)
-
-## 🌟 Linguagens Mais Usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto10Andrade&layout=compact&theme=dark)
-
----
-⭐️ Desenvolvedor em formação | UFC Sobral & IFCE Tianguá
+<div align="center">
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Roberto10Andrade)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roberto-andrade-0b62992b6)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandes.11roberto@gmail.com)
+  
+</div>
