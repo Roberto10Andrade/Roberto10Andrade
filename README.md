@@ -1,7 +1,11 @@
 # Olá, eu sou Roberto Andrade! 👋
 
 ## 👨‍💻 Sobre mim
-Estudante de Desenvolvimento Web apaixonado por criar soluções inovadoras. Atualmente focado em desenvolvimento web full-stack, com experiência em Vue.js e Firebase.
+Estudante de Engenharia da Computação na UFC-Sobral e do curso Técnico em Informática para Internet no IFCE-Tianguá.
+
+## 🎓 Formação
+- **Graduação:** Engenharia da Computação - UFC Sobral
+- **Curso Técnico:** Informática para Internet - IFCE Tianguá
 
 ## 🚀 Principais Projetos
 
@@ -33,17 +37,15 @@ Plataforma educacional
 ## 🛠️ Tecnologias & Ferramentas
 - **Frontend:** HTML, CSS, JavaScript, Vue.js
 - **Backend:** Node.js, Firebase
-- **Banco de Dados:** Firestore
+- **Banco de Dados:** Firestore, MySQL
 - **Ferramentas:** Git, VS Code
-- **Outros:** REST APIs, Autenticação
-
-## 📚 Formação
-- Curso Técnico em Informática para Internet
-- Desenvolvimento Web I, II e III
-- Projetos práticos e aplicados
+- **Outros:** REST APIs, Autenticação, UX/UI
 
 ## 📫 Contato
 - GitHub: [@Roberto10Andrade](https://github.com/Roberto10Andrade)
+- Instituições:
+  - UFC Sobral
+  - IFCE Campus Tianguá
 
 ## 📊 Estatísticas GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Roberto10Andrade&show_icons=true&theme=dark)
@@ -52,4 +54,4 @@ Plataforma educacional
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto10Andrade&layout=compact&theme=dark)
 
 ---
-⭐️ Baseado em [Roberto10Andrade](https://github.com/Roberto10Andrade)
+⭐️ Desenvolvedor em formação | UFC Sobral & IFCE Tianguá
