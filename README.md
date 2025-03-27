@@ -30,7 +30,9 @@
   
   [![ShopList](https://github-readme-stats.vercel.app/api/pin/?username=Roberto10Andrade&repo=vue-firebase-first-project-master&theme=dracula)](https://github.com/Roberto10Andrade/vue-firebase-first-project-master)
   [![Quiz-Rapido](https://github-readme-stats.vercel.app/api/pin/?username=Roberto10Andrade&repo=Quiz-Rapido&theme=dracula)](https://github.com/Roberto10Andrade/Quiz-Rapido)
-  
+   [![ActiviTies UFC](https://github-readme-stats.vercel.app/api/pin/?username=Roberto10Andrade&repo=Quiz-Rapido&theme=dracula)](https://github.com/Roberto10Andrade/ufc-sobral-activities-next.git)
+    [![SOS Serviços](https://github-readme-stats.vercel.app/api/pin/?username=Roberto10Andrade&repo=Quiz-Rapido&theme=dracula)](https://github.com/Roberto10Andrade/sos-servicos)
+   
 </div>
 
 ## 📫 Contatos
